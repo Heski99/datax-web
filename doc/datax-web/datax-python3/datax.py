@@ -122,7 +122,7 @@ def generateJobConfigTemplate(reader, writer):
             "channel": ""
           }
         },
-        "content": [
+        "Shift": [
           {
             "reader": {},
             "writer": {}
